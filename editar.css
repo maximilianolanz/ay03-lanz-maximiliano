@@ -1,0 +1,45 @@
+#cabecera{
+    background-color: forestgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#titulo{
+    background-color: firebrick;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#uwu{
+    background-color: rgb(33, 235, 33);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#bodyodyody{
+    background-color: rgb(240, 142, 13);
+    border: 1px solid black;
+    text-shadow: 0px 3px 3px cornflowerblue;
+}
+
+.owo{
+    background-color: rgb(235, 33, 83);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px; 
+}
+
+#unu{
+    background-color: rgb(164, 84, 211);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#poto{
+    background-color: rgb(255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.div{
+    padding: 40px;
+}
